@@ -69,8 +69,9 @@
 }
 
 .photo-grid-item {
+  display:flex;
   border: 1px solid #fff;
-  width: 300px;
+  width: 500px;
   height: 300px;
 }
 
