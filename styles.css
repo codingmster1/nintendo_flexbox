@@ -1,5 +1,5 @@
 * {
-    margin: 1;
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
@@ -52,12 +52,7 @@
     align-items:center;
   }
 
-.social,
-.subscribe {
-  border: 1px solid #5995DA;
-  align-self: flex-end;
-  margin-bottom: 20px;
-}
+
 
 .photo-grid-container {
   display: flex;
