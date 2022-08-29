@@ -71,8 +71,8 @@
 .photo-grid-item {
   display:flex;
   border: 1px solid #fff;
-  width: 500px;
-  height: 300px;
+  width: 300px;
+  height: 190px;
 }
 
 .footer {
