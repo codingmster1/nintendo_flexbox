@@ -1,2 +1,3 @@
 Nintendo website with flexbox layout.
+Odin Project Student.
 Hello Odin!
